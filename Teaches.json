@@ -22,11 +22,5 @@
     "sex": "Female",
     "birthday": "2000-09-08",
     "course": "Database"
-  },
-  {
-    "name": "Liam Vance",
-    "sex": "Male",
-    "birthday": "1999-04-22",
-    "course": "System Design"
   }
 ]
