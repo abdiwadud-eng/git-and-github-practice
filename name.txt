@@ -1,6 +1,6 @@
 Student name:
 1: Abdiwadud.
-2:Omar.
+2:Faarax
 3:Muuse.
 4:Geele.
 5:Xaawo.
