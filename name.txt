@@ -4,3 +4,5 @@ Student name:
 3:Muuse.
 4:Geele.
 5:Xaawo.
+6:salaad.
+7:Maxamuud.
