@@ -6,5 +6,7 @@ body {
   color: red;
 }
 ul li {
-  color: blue;
+  color: white;
+  background-color: #09eb3a;
+  padding: 10px;
 }
