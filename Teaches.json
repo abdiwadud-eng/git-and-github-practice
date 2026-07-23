@@ -2,31 +2,31 @@
   {
     "name": "Alex Rivera",
     "sex": "Male",
-    "birthday": "2003-05-14",
+    "birthday": "1980-05-14",
     "course": "HTML & CSS"
   },
   {
     "name": "Sophia Chen",
     "sex": "Female",
-    "birthday": "2002-11-28",
+    "birthday": "1994-11-28",
     "course": "JAVA"
   },
   {
     "name": "Jordan Taylor",
     "sex": "Male",
-    "birthday": "2004-01-19",
+    "birthday": "1991-01-19",
     "course": "git and github"
   },
   {
     "name": "Maya Patel",
     "sex": "Female",
-    "birthday": "2003-09-08",
+    "birthday": "2000-09-08",
     "course": "Database"
   },
   {
     "name": "Liam Vance",
     "sex": "Male",
-    "birthday": "2002-04-22",
+    "birthday": "1999-04-22",
     "course": "System Design"
   }
 ]
