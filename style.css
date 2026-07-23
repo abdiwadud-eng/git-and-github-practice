@@ -5,3 +5,6 @@ body {
   background-color: #e29404;
   color: red;
 }
+ul li {
+  color: blue;
+}
