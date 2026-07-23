@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Alex Rivera",
+    "sex": "Male",
+    "birthday": "2003-05-14"
+  },
+  {
+    "name": "Sophia Chen",
+    "sex": "Female",
+    "birthday": "2002-11-28"
+  },
+  {
+    "name": "Jordan Taylor",
+    "sex": "Male",
+    "birthday": "2004-01-19"
+  },
+  {
+    "name": "Maya Patel",
+    "sex": "Female",
+    "birthday": "2003-09-08"
+  },
+  {
+    "name": "Liam Vance",
+    "sex": "Male",
+    "birthday": "2002-04-22"
+  }
+]
