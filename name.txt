@@ -1,6 +1,5 @@
 Class A Student name:
-1: Abdiwadud.
-2:Faarax
+1: Abdiwadud.g
 3:Mursal.
 4:Geele.
 5:Xamze.
