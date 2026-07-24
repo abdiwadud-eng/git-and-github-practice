@@ -22,5 +22,11 @@
     "sex": "Female",
     "birthday": "2000-09-08",
     "course": "BackEnd"
+  },
+  {
+    "name": "Ali",
+    "sex": "Male",
+    "birthday": "2003-03-09",
+    "course": "Networking"
   }
 ]
