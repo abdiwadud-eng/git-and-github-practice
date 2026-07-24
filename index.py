@@ -3,7 +3,7 @@ print("Hello World")
 x = 10
 y = 1
 
-a = 50,
+a = 40,
 b = 40
 
 print(x + y);
