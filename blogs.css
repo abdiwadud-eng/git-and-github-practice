@@ -5,3 +5,8 @@ p {
   color: blueviolet;
   font-size: 30px;
 }
+h1 {
+  color: blue;
+  padding: 20px;
+  margin: 20px;
+}
