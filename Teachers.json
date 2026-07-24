@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Omar",
+    "sex": "Male",
+    "birthday": "1980-05-14",
+    "course": "HTML & CSS"
+  },
+  {
+    "name": "Sophia Chen",
+    "sex": "Female",
+    "birthday": "1994-11-28",
+    "course": "C++"
+  },
+  {
+    "name": "Jordan Taylor",
+    "sex": "Male",
+    "birthday": "1990-05-17",
+    "course": "git and github"
+  },
+  {
+    "name": "Maya duran",
+    "sex": "Female",
+    "birthday": "2000-09-08",
+    "course": "BackEnd"
+  },
+  {
+    "name": "Ali omar",
+    "sex": "Male",
+    "birthday": "2003-03-09",
+    "course": "Networking"
+  },
+  {
+    "name": "Sharfudin yusuf",
+    "sex": "Male",
+    "birthday": "2002-03-09",
+    "course": "Data Engineering"
+  }
+]
