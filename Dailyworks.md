@@ -7,3 +7,4 @@
 5: Watching Movies.
 6: Watching poadcasts,
 7: Playing Football.
+8: Reading Books
