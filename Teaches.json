@@ -28,5 +28,11 @@
     "sex": "Male",
     "birthday": "2003-03-09",
     "course": "Networking"
+  },
+  {
+    "name": "Sharfudin yusuf",
+    "sex": "Male",
+    "birthday": "2003-03-09",
+    "course": "Data Engineering"
   }
 ]
