@@ -6,7 +6,7 @@ Class A Student name:
 5:Xamze.
 6:salaad.
 7:Muscab.
-8:Salaad.
+8:Jamaal.
 9:Daahir.
 10:Xaliimo.
 12:Salmo.
