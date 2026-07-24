@@ -10,3 +10,4 @@ Class A Student name:
 9:Daahir.
 10:Xaliimo.
 11:Yaxye.
+12:Salmo.
