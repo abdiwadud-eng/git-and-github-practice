@@ -5,4 +5,5 @@
 3: Reading Quran.
 4: Entertaiment.
 5: Watching Movies.
-6: Watching poadcasts
+6: Watching poadcasts,
+7: Playing Football.
