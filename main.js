@@ -11,3 +11,9 @@ function Multiply(a, b) {
 }
 
 print(adding(10 * 5));
+
+function Divide(a, b) {
+  return a / b;
+}
+
+print(adding(50, 5));
