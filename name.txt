@@ -6,3 +6,5 @@ Student name:
 5:Xaawo.
 6:salaad.
 7:Muscab.
+8:Salaad.
+9:Daahir.
