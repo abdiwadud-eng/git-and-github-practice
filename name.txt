@@ -3,7 +3,7 @@ Class A Student name:
 2:Faarax
 3:Muuse.
 4:Geele.
-5:Xaawo.
+5:Xamze.
 6:salaad.
 7:Muscab.
 8:Salaad.
