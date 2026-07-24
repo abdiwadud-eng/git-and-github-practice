@@ -23,3 +23,8 @@ h3 {
   padding: 28px;
   margin: 30px;
 }
+button {
+  padding: 10px 20px;
+  background-color: white;
+  border: none;
+}
